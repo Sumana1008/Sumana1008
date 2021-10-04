@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sumanamupparapu10@gmail.com**
 
-- ⚡ Fun fact **fun==me**
+- ⚡ Fun fact **fun==me xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
