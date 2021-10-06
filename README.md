@@ -23,7 +23,7 @@
 
 <p><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumana1008&layout=compact" alt="sumana1008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumana1008&show_icons=true&locale=en" alt="sumana1008" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumana1008&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sumana1008" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana1008&" alt="sumana1008" />
