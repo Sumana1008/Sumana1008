@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana1008&label=Profile%20views&color=0e75b6&style=flat" alt="sumana1008" /> </p>
 
-- 🌱 I’m currently learning **Data analytics**
-
-- 🤝 I’m looking forward to participate in **hackathons**
-
-- 📫 How to reach me **sumanamupparapu10@gmail.com**
-
-- ⚡ Fun fact **fun==me xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
